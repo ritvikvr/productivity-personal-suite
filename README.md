@@ -200,7 +200,7 @@ NOTES_DIR = BASE_DIR / "notes"
 
 ## Author
 
-Ritvik Verma (@ritvikvr)
+Ritvik (@ritvikvr)
 
 ## License
 
